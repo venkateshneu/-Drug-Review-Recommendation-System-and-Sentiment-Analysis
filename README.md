@@ -35,9 +35,7 @@ The dataset is composed of drug reviews with the following columns:
 - **nltk:** For text preprocessing.
 - **skimpy:** For summarizing the dataset.
 
-## Installation
-To install the required dependencies, run:
-```bash
+
 pip install -r requirements.txt
 Usage
 Data Preprocessing
