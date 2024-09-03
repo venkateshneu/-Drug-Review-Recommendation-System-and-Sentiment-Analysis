@@ -17,6 +17,7 @@ Composite Score Calculation: Create a composite score based on the rating, senti
 Drug Ranking: Rank drugs for each condition based on their composite scores.
 Exploratory Data Analysis (EDA): Insights into the most common conditions, drug names, and distributions.
 Word Clouds: Visualize common words in high-rated and low-rated reviews.
+
 Models Used
 LSTM Neural Network: A recurrent neural network model used for sentiment classification of reviews.
 LightGBM: A gradient boosting framework that was used for sentiment prediction using TF-IDF features.
